@@ -55,7 +55,6 @@ a {
     color: #ccc;
 }
 .login {
-    background-color: #ecede6;
     width: 50px;
     padding: 7px;
     margin: 1px;
@@ -71,7 +70,7 @@ a {
     margin-left: 20px;
 }
 nav button {
-    background-color: #ccc;
+    background-color: inherit;
     user-select: none;
     border: 0;
     border-radius: 50%;
