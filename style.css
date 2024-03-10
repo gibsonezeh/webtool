@@ -44,7 +44,7 @@ a {
 }
 .signup {
     background-color: #303030;
-    width: 50px;
+    width: 40px;
     padding: 7px;
     margin: 1px;
     border-radius: 18px;
@@ -55,7 +55,7 @@ a {
     color: #ccc;
 }
 .login {
-    width: 50px;
+    width: 40px;
     padding: 7px;
     margin: 1px;
     border-radius: 18px;
