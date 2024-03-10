@@ -51,7 +51,7 @@ a {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: normal;
-    font-size: small;
+    font-size: x-small;
     color: #ccc;
 }
 .login {
@@ -63,7 +63,7 @@ a {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: normal;
-    font-size: small;
+    font-size: x-small;
     color: #000;
 }
 .register {
