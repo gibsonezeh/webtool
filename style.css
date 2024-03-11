@@ -3,7 +3,6 @@ body {
     user-select: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
-    display: block;
 }
 html {
     scroll-behavior: smooth;
@@ -291,9 +290,8 @@ nav button {
     display: flex;
 }
 .img {
-    background: rgb(28, 39, 76, 0.5);
     border-radius: 10%;
-    padding: 15px;
+    padding: 0;
 }
 .text_con {
     margin-inline-start: 0;
