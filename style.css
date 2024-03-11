@@ -357,7 +357,7 @@ nav button {
     align-items: center;
 }
 .more_box_svg {
-    color: u;
+    color: hsl(226, 46%, 20%) !important;
 }
 .hmm {
     margin: 12px;
