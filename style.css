@@ -41,7 +41,7 @@ a {
 .whitebark_svg {
     padding: 10px;
     background: whitesmoke;
-    border-radius: 30%;
+    border-radius: 50%;
 }
 .whitebark_svg:hover > .theme {
     display: block;
