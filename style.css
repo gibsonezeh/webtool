@@ -38,15 +38,16 @@ a {
     display: block;
 }
 .whitebark_svg {
-    padding: 10px;
-    background: whitesmoke;
-    border-radius: 50%;
-}
-.whitebark_svg:hover > .theme {
-    display: block;
+    background-color: whitesmoke;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
 }
 .theme {
-    display:  none;
+    display:  block;
     position: absolute;
     margin-top: 15px;
     background: whitesmoke;
