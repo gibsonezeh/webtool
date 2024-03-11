@@ -16,6 +16,13 @@ a {
     text-decoration: none;
     color: inherit;
 }
+.pad {
+    margin-left: auto;
+    margin-right: 80px;
+}
+button {
+    cursor: pointer;
+}
 .navigation {
     background-color: #fff;
     border-bottom: 0.01px solid #ccc;
@@ -30,17 +37,64 @@ a {
     align-items: center;
     color: #112e4d;
 }
-.theme {
+.whitebark {
     margin-left: auto;
-    display: flex;
+    display: block;
 }
-.register {
+.whitebark_svg {
+    padding: 12px;
+    background: whitesmoke;
+    border-radius: 30%;
+    cursor: pointer;
+}
+.whitebark_svg:hover > .theme {
+    display: block;
+}
+.theme {
+    display: block;
+    position: absolute;
+    margin-top: 15px;
+    background: whitesmoke;
+    padding: 5px;
+    border-radius: 5px;
+    border: 0.2px solid #ccc;
+    width: 150px;
+    font-style: normal;
+    font-size: x-small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
+.light {
+    padding: 5px;
+    border-radius: 4px;
+}
+.light:hover {
+    background: #fff;
+}
+.light_svg {
+    display: flex;
+    align-items: center;
+}
+.dark {
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 4px;
+}
+.dark:hover {
+    background: #fff;
+}
+.dark_svg {
+    display: flex;
+    align-items: center;
+}
+ .register {
     display: flex;
     background-color: whitesmoke;
     padding: 2px;
     border-radius: 20px;
     text-align: center;
     border: 0.2px solid rgba(0,0, 0, 0.2);
+    cursor: pointer;
 }
 .signup {
     background-color: #303030;
@@ -144,6 +198,7 @@ nav button {
     margin-top: 40px;
     z-index: -999;
     position: relative;
+    cursor: pointer;
 }
 .exploration_box {
     background-color: #fff;
@@ -165,11 +220,13 @@ nav button {
     font-weight: 600;
     width: 200px;
     padding-left: 10px;
+    cursor: pointer;
 }
 
 .exploration_box .button_right{
     position: absolute;
     right: 0;
+    cursor: pointer;
 }
 .exploration_box .button_right button {
     position: relative;
