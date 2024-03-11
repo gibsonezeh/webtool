@@ -309,6 +309,15 @@ nav button {
 .text_con div:first-child {
     margin-block-end: 5px;
 }
+.phone_down {
+    background: #fff;
+    height: auto;
+    margin-top: 210px;
+    width: 100%;
+    position: absolute;
+    border: 0.2px solid rgb(28, 39, 76, 1);
+    border-radius: 5px;
+}
 .copy_btn {
     position: absolute;
     right: 0;
@@ -341,6 +350,7 @@ nav button {
     color: #1C274C;
     font-style: normal;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
 }
 .flooting_box2 {
     margin: 0;
