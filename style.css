@@ -272,7 +272,7 @@ nav button {
 }
 .head_box {
     margin: 5px;
-    border-block-end: 0.1px solid rgba(0,0, 0, 1);
+    border-block-end: 0.1px solid rgb(28, 39, 76, 0.3);
     z-index: -999;
     position: relative;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -363,7 +363,7 @@ nav button {
 .generated_colors {
     margin-block-end: 30px;
     border-radius: 7px;
-    border: 0.1px solid rgba(0,0, 0, 0.1);
+    border: 0.1px solid rgb(28, 39, 76, 1);
 }
 .total_site_visited {
     margin-block-end: 30px;
