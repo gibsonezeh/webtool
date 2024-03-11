@@ -242,7 +242,7 @@ nav button {
 .cover {
     font-size: 10px;
     font-weight: 500;
-    border: 1.5px solid #303030;
+    border: 1.5px solid rgb(28, 39, 76, 0.2);
     border-bottom: 0;
     border-top-right-radius: 30px;
     border-top-left-radius: 30px;
@@ -254,6 +254,7 @@ nav button {
     z-index: -999;
     align-items: center;
     font-style: normal;
+    color: rgb(28, 39, 76, 0.5);
 }
 .buy-NFT {
     text-align: center;
@@ -265,7 +266,7 @@ nav button {
 .head {
     font-style: normal;
     margin: 12px;
-    border: 1.2px solid #303030;
+    border: 0.3px solid rgb(28, 39, 76, 0.2);
     border-radius: 4px;
     height: auto;
     font-size: 8px;
@@ -318,7 +319,7 @@ nav button {
     z-index: 999;
     width: 230px;
     margin-left: -16px;
-    border: 1.3px solid #000;
+    border: 0.3px solid rgb(28, 39, 76, 0.2);
     border-radius: 5px;
     height: auto;
     position: absolute;
@@ -332,11 +333,12 @@ nav button {
     width: 250px;
     margin-top: 60px;
     margin-left: -25px;
-    border: 1.3px solid #000;
+    border: 0.3px solid rgb(28, 39, 76, 0.2);
     border-radius: 5px;
     height: auto;
     position: relative;
     z-index: 999;
+    color: #1C274C;
     font-style: normal;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
