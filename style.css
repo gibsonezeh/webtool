@@ -172,20 +172,20 @@ nav button {
 }
 .heading_describtion h1 {
     color: #112e4d;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 30px;
     line-height: 45px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .paragraph_describtion {
     margin: 20px 0;
 }
 .paragraph_describtion h3 {
     font-size: 17px;
-    font-weight: 500;
+    font-weight: 400;
     color: #112e4d;
     line-height: 24px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .exploration_container {
     margin-top: 40px;
