@@ -173,7 +173,7 @@ nav button {
 .heading_describtion h1 {
     color: #112e4d;
     font-weight: 500;
-    font-size: 40px;
+    font-size: 33px;
     line-height: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -182,7 +182,6 @@ nav button {
 }
 .paragraph_describtion h3 {
     font-size: 17px;
-    font-style: normal;
     font-weight: 500;
     color: #112e4d;
     line-height: 24px;
