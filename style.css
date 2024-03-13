@@ -173,9 +173,8 @@ nav button {
 .heading_describtion h1 {
     color: #112e4d;
     font-weight: 500;
-    font-size: 30px;
-    font-style: normal;
-    line-height: 40px;
+    font-size: 40px;
+    line-height: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .paragraph_describtion {
@@ -372,7 +371,7 @@ nav button {
 .generated_colors {
     margin-block-end: 30px;
     border-radius: 7px;
-    border: 0.1px solid rgb(28, 39, 76, 1);
+    border: 0.1px solid rgba(0,0, 0, 0.1);
 }
 .total_site_visited {
     margin-block-end: 30px;
@@ -382,6 +381,7 @@ nav button {
 .online_visitors {
     margin-block-end: 30px;
     border-radius: 7px;
+    height: 30px;
     border: 0.1px solid rgba(0,0, 0, 0.1);
 }
 .visitedDevices_onlineVisitors {
