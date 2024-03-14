@@ -73,12 +73,12 @@ op = {
 document[r.i](id[0])[r.t] = op.open(),
 mth = {
   td: function() {
-    const dB = document[r.i](id[0]);
+    const db = document[r.i](id[0]);
     const dC = document[r.i](id[1]);
-    dB[r.l](r.k, (e) => {
+    db[r.l](r.k, (e) => {
       e[r.p]();
       dC[r.sy][r.d] = dC[r.sy][r.d] === r.n ? r.o : r.n;
-      dB[r.t] = dC[r.sy][r.d] === r.n ? op.open() : op.close();
+      db[r.t] = dC[r.sy][r.d] === r.n ? op.open() : op.close();
     });
     return undefined;
   }
