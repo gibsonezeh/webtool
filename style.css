@@ -3,7 +3,6 @@ body {
     user-select: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
-    color: darkblue;
 }
 html {
     scroll-behavior: smooth;
@@ -39,7 +38,7 @@ a {
     display: block;
 }
 .whitebark_svg {
-    background-color: whitesmoke;
+    background-color: #f5f5f5;
     height: 50px;
     width: 50px;
     display: flex;
@@ -50,7 +49,8 @@ a {
 .theme {
     display:  block;
     position: absolute;
-    margin-top: 20px;
+    right: 10px;
+    top: 90px;
     background: whitesmoke;
     padding: 5px;
     border-radius: 5px;
@@ -88,37 +88,12 @@ a {
     display: flex;
     background-color: whitesmoke;
     padding: 2px;
-    border-radius: 20px;
+    border-radius: 50%;
     text-align: center;
     border: 0.2px solid rgba(0,0, 0, 0.2);
-}
-.signup {
-    background-color: #303030;
-    width: 40px;
-    padding: 7px;
-    margin: 1px;
-    border-radius: 18px;
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: normal;
-    font-size: x-small;
-    color: #ccc;
-}
-.login {
-    width: 40px;
-    padding: 7px;
-    margin: 1px;
-    border-radius: 18px;
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: normal;
-    font-size: x-small;
-    color: #000;
-}
-.register {
-    display: flex;
     margin-left: 20px;
 }
+
 nav button {
     background-color: whitesmoke;
     user-select: none;
