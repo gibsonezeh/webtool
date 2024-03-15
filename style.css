@@ -333,7 +333,7 @@ nav button {
    display: block;
 }
 .more_box {
-    padding: 8px;
+    padding: 6px;
     display: flex;
     justify-content: center;
 }
