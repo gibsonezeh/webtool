@@ -49,8 +49,8 @@ a {
 .theme {
     display:  block;
     position: absolute;
-    right: 10px;
-    top: 90px;
+    right: 20%;
+    top: 70px;
     background: whitesmoke;
     padding: 5px;
     border-radius: 5px;
