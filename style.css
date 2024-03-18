@@ -351,6 +351,7 @@ nav button {
 }
 .W3devtools_network {
     margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .W3devtoolsNetwork {
     margin-block-end: 20px;
@@ -365,7 +366,15 @@ nav button {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 20px;
+    margin-top: auto;
+    margin-right: auto;
+    margin-right: 10px;
+}
+.W3devtoolsNetwork_tx_container {
+    
+}
+.info_container {
+    margin-left: auto;
 }
 footer {
     background-color: #112e4d;
