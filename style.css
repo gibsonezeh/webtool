@@ -357,7 +357,7 @@ nav button {
 .W3devtoolsNetwork {
     margin-block-end: 20px;
     border-radius: 7px;
-    border: 0.1px solid rgba(0,0, 0, 0.5);
+    border: 0.1px solid rgba(0,0, 0, 0.1);
     background-color: rgb(204, 204, 204, 0.2);
 }
 .W3devtoolsNetwork_box {
