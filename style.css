@@ -147,9 +147,13 @@ nav button {
 .ge_dropdown_content_fun_box {
     display: flex;
     font-size: medium;
+    position: relative;
 }
 .md_svg {
-    margin: 10px 0 0 auto;
+    margin: 4px 0 0 auto;
+    background-color: whitesmoke;
+    border-radius: 50%;
+    padding: 8px;
 }
 .dropdown_content_fun:last-child {
     border-block-end: 0;
