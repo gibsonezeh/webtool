@@ -8,7 +8,7 @@ users = {
     2: {'username': 'jane_doe', 'email': 'jane@example.com'}
 }
 
-@app.route('/profile/<int:user_id>')
+@app.route('/webdevtools1.netlify.app/profile/<int:user_id>')
 def profile(user_id):
     # Check if user_id exists in the users dictionary
     if user_id in users:
