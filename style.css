@@ -370,7 +370,7 @@ nav button {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 30px;
+    margin: 20px;
 }
 .W3devtoolsNetwork_tx_container {
     background-color: 0;
@@ -378,11 +378,11 @@ nav button {
 }
 .W3devtoolsNetwork_h1 {
     margin-bottom: 50px;
-    font-size: medium;
+    font-size: 15px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .info_container {
-    margin: auto auto auto 20px;
+    margin: 0 0 auto 0;
 }
 .footer {
     background-color: #112e4d;
