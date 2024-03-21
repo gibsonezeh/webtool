@@ -136,7 +136,6 @@ nav button {
     font-size: 20px;
     border-block-end: 1px solid rgba(0,0, 0, 0);
     display: block;
-    height: auto;
 }
 .ge_dropdown_content_fun_text {
     margin: 7px;
@@ -168,7 +167,7 @@ nav button {
 .heading_describtion h1 {
     color: #1C274C;
     font-weight: 500;
-    font-size: 40px;
+    font-size: 30px;
     font-style: normal;
     line-height: 40spx;
     word-spacing: 2.5px;
@@ -390,9 +389,10 @@ nav button {
     background-color: 0;
     width: 100%;
 }
-.W3devtoolsNetwork_h1 {
+.W3devtoolsNetwork_h1 h1  {
     margin-bottom: 50px;
-    font-size: 15px;
+    font-size: 20px;
+    font-weight: 100;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .info_container {
