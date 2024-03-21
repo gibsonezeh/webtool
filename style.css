@@ -87,10 +87,10 @@ a {
  .register {
     display: flex;
     background-color: none;
-    padding: 2px;
+    padding: 5px;
     border-radius: 50%;
     text-align: center;
-   
+    background-color: whitesmoke;
     margin-left: 20px;
 }
 
@@ -128,20 +128,28 @@ nav button {
     height: auto;
     width: auto;
 }
-.dropdown_content_fun {
-    margin-block-start: 25px;
-    padding-block-end: 25px;
-    margin-inline-start: 10px;
+.ge_dropdown_content_fun {
+    margin-block-start: 20px;
     font-style: normal;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 500;
     font-size: 20px;
     border-block-end: 1px solid rgba(0,0, 0, 0);
     display: block;
+    height: auto;
 }
-.dropdown_content_fun_box {
+.ge_dropdown_content_fun_text {
+    margin: 7px;
+}
+.ge_dropdown_content_fun_icon {
+    margin: 7px;
+}
+.ge_dropdown_content_fun_box {
     display: flex;
-    font-size: small;
+    font-size: medium;
+}
+.md_svg {
+    margin: 10px 0 0 auto;
 }
 .dropdown_content_fun:last-child {
     border-block-end: 0;
@@ -157,7 +165,7 @@ nav button {
 }
 .heading_describtion h1 {
     color: #1C274C;
-    font-weight: 550;
+    font-weight: 500;
     font-size: 40px;
     font-style: normal;
     line-height: 40spx;
