@@ -137,7 +137,11 @@ nav button {
     font-weight: 500;
     font-size: 20px;
     border-block-end: 1px solid rgba(0,0, 0, 0);
+    display: block;
+}
+.dropdown_content_fun_box {
     display: flex;
+    font-size: small;
 }
 .dropdown_content_fun:last-child {
     border-block-end: 0;
