@@ -151,8 +151,6 @@ nav button {
 }
 .md_svg {
     margin: 4px 0 0 auto;
-    background-color: whitesmoke;
-    border-radius: 50%;
     padding: 8px;
 }
 .dropdown_content_fun:last-child {
