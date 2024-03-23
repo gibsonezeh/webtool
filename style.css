@@ -168,10 +168,10 @@ nav button {
 }
 .heading_describtion h1 {
     font-weight: 500;
-    font-size: 36px;
+    font-size: 45px;
     font-style: normal;
-    line-height: 40spx;
-    word-spacing: 2.5px;
+    line-height: 40px;
+    word-spacing: 2px;
     letter-spacing: 1px;
     font-family: 'kanit', sans-serif;
 }
