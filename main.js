@@ -49,7 +49,7 @@ op = {
       path: {
         d: 'M18 6L6 18M6 6l12 12',
         stroke: 'currentColor',
-        'stroke-width': 4,
+        'stroke-width': 2,
         'stroke-linecap': 'round',
         'stroke-linejoin': 'round'
       }
