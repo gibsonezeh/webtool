@@ -209,6 +209,7 @@ nav button {
     font-weight: 600;
     width: 200px;
     padding-left: 10px;
+    font-family: 'kanit', sans-serif;
 }
 
 .exploration_box .button_right{
