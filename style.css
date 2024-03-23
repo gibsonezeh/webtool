@@ -371,14 +371,14 @@ nav button {
 }
 .exp {
     font-size: 15px;
-    font-weight: 450;
+    font-weight: 400;
     color: #1C274C;
     line-height: 24px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .expa {
-    font-size: 12px;
-    font-weight: 450;
+    font-size: 10px;
+    font-weight: 300;
     color: #1C274C;
     line-height: 24px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
