@@ -379,7 +379,7 @@ nav button {
 }
 .expa {
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 400;
     color: #1C274C;
     line-height: 24px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -402,7 +402,7 @@ nav button {
 .bolder {
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: x-large;
+    font-size: xx-large;
 }
 .W3devtoolsNetwork_tx_container {
     background-color: 0;
