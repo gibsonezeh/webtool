@@ -166,7 +166,6 @@ nav button {
     margin: 0px 0px;
 }
 .heading_describtion h1 {
-    color: #1C274C;
     font-weight: 500;
     font-size: 36px;
     font-style: normal;
@@ -181,7 +180,6 @@ nav button {
 .paragraph_describtion h3 {
     font-size: 15px;
     font-weight: 500;
-    color: #1C274C;
     line-height: 24px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -409,7 +407,14 @@ nav button {
     width: 100%;
 }
 .W3devtools_network_h1 {
-    margin: 20px;
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 36px;
+    font-style: normal;
+    line-height: 40spx;
+    word-spacing: 2.5px;
+    letter-spacing: 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .W3devtools_network_h1 h1 {
     font-weight: 500;
