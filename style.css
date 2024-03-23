@@ -371,21 +371,21 @@ nav button {
    line-height: 1.5em;
 }
 .exp {
-    font-size: 15px;
+    font-size: small;
     font-weight: 400;
     color: #1C274C;
     line-height: 24px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .expa {
-    font-size: 14px;
+    font-size: small;
     font-weight: 400;
     color: #1C274C;
     line-height: 24px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .num {
-    font-size: xx-large;
+    font-size: large;
 
 }
 .W3devtoolsNetwork {
@@ -400,9 +400,9 @@ nav button {
     display: flex;
 }
 .bolder {
-    font-weight: bold;
+    font-weight: 550;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: xx-large;
+    font-size: 30px;
 }
 .W3devtoolsNetwork_tx_container {
     background-color: 0;
