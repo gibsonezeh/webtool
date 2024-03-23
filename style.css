@@ -15,7 +15,7 @@ html {
 }
 a {
     text-decoration: none;
-    color: color: rgb(0, 0, 0, 0.8);;
+    color: rgb(0, 0, 0, 0.8);
 }
 .pad {
     margin-left: auto;
@@ -33,7 +33,7 @@ a {
     z-index: 999;
     display: flex;
     align-items: center;
-    color: #112e4d;
+    color: rgb(0, 0, 0, 0.8);
 }
 .whitebark {
     margin-left: auto;
@@ -372,13 +372,13 @@ nav button {
 }
 .exp {
     font-size: small;
-    font-weight: bold;
+    font-weight: 400;
     line-height: 24px;
     font-family: 'kanit', sans-serif;
 }
 .expa {
     font-size: small;
-    font-weight: 500;
+    font-weight: 100;
     color: #1C274C;
     line-height: 24px;
     font-family: 'kanit', sans-serif;
