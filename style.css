@@ -367,13 +367,14 @@ nav button {
 }
 .text {
    margin: 20px;
+   line-height: 1.5em;
 }
 .exp {
-    font-weight: 650;
-    font-size: x-small;
-    font-style: normal;
-    letter-spacing: 0.7px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #1C274C;
+    line-height: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .num {
     font-size: xx-large;
@@ -397,7 +398,13 @@ nav button {
     margin: 20px;
 }
 .W3devtools_network_h1 h1 {
-    font-size: xx-large;
+    font-weight: 500;
+    font-size: 36px;
+    font-style: normal;
+    line-height: 40spx;
+    word-spacing: 2.5px;
+    letter-spacing: 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .info_container {
     margin: 10px;
