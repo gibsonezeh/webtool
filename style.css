@@ -399,9 +399,9 @@ nav button {
     display: flex;
 }
 .bolder {
-    font-weight: 550;
+    font-weight: 500;
     font-family: 'kanit', sans-serif;
-    font-size: 30px;
+    font-size: 35px;
 }
 .W3devtoolsNetwork_tx_container {
     background-color: 0;
