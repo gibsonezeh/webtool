@@ -371,14 +371,14 @@ nav button {
    line-height: 1.5em;
 }
 .exp {
-    font-size: small;
+    font-size: 13px;
     font-weight: 500;
     line-height: 24px;
     font-family: 'kanit', sans-serif;
 }
 .expa {
-    font-size: small;
-    font-weight: 400;
+    font-size: 13px;
+    font-weight: 300;
     color: #1C274C;
     line-height: 24px;
     font-family: 'kanit', sans-serif;
