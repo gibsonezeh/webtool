@@ -430,9 +430,17 @@ nav button {
 .info_container {
     margin: 10px;
 }
-.footer {
-    background-color: #112e4d;
-    position: absolute;
-    width: 100%;
+footer {
+    position: relative;
+    padding: 15px;
     font-family: 'kanit', sans-serif;
+}
+.footer {
+    width: 100%;
+    border-top: 0.4px solid #ccc;
+    color: #777;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
