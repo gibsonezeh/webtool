@@ -180,7 +180,7 @@ nav button {
 }
 .paragraph_describtion h3 {
     font-size: 15px;
-    font-weight: 500;
+    font-weight: 400;
     line-height: 24px;
     font-family: 'kanit', sans-serif;
 }
@@ -188,11 +188,12 @@ nav button {
     margin-top: 40px;
     z-index: -999;
     position: relative;
+    width: 100%;
 }
 .exploration_box {
     background-color: #fff;
     overflow: hidden;
-    width: 90%;
+    width: 95%;
     border-radius: 70px;
     padding: 10px;
     display: flex;
@@ -200,30 +201,28 @@ nav button {
     align-items: center;
     border: 0.1px solid /*#112e2d*/ #ccc;
 }
-.exploration_text  button{
+.exploration_text {
     background-color: inherit;
-    color: #112e4d;
     border: none;
     position: relative;
-    text-align: left;
-    font-weight: 600;
-    width: 200px;
-    padding-left: 10px;
+    font-weight: 300;
+    width: 150px;
+    margin-left: 20px;
     font-family: 'kanit', sans-serif;
 }
 
-.exploration_box .button_right{
+.button_right{
+    background: #ddd;
     position: absolute;
     right: 0;
-}
-.exploration_box .button_right button {
-    position: relative;
-    border-radius: 50%;
-    padding: 5px;
     border: none;
-    height: auto;
-    width: auto;
-    margin-right: 6px;
+    margin-right: 5px;
+    border-radius: 50%;
+    height: 30px;
+    width: 35px;
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
 }
 .sec {
     margin-block-end: 10px;
