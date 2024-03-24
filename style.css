@@ -357,12 +357,15 @@ nav button {
 }
 .more_box {
     padding: 6px;
-    display: flex;
-    justify-content: center;
 }
 .more_box_svg {
     color: hsl(226, 46%, 20%);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+.n { margin-top: 30px; }
 .hmm {
     margin: 12px;
 }
