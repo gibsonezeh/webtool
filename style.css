@@ -435,14 +435,20 @@ nav button {
 }
 footer {
     position: relative;
-    padding: 15px;
     font-family: 'kanit', sans-serif;
 }
-.footer {
-    width: 100%;
+.footer_container {
+    font-family: 'kanit' sans-serif;
+    border-top: 0.4px solid  #ddd;
+}
+.pbw {
+    margin: 15px;
+    padding: 5px;
     border-top: 0.4px solid #ccc;
     color: #777;
-    width: 100%;
+    font-family: 'kanit' sans-serif;
+    font-weight: 300;
+    font-size: small;
     display: flex;
     align-items: center;
     justify-content: center;
