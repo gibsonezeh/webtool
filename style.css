@@ -4,7 +4,7 @@ body {
     user-select: none;
     font-family: 'kanit', sans-serif;
     margin: 0;
-    color: rgb(0, 0, 0, 0.8);
+    color: rgba(0, 0, 0, 0.8);
 }
 html {
     scroll-behavior: smooth;
@@ -88,12 +88,12 @@ a {
 }
  .register {
     display: flex;
-    background-color: none;
-    padding: 5px;
+    padding: 0;
     border-radius: 50%;
     text-align: center;
-    background-color: whitesmoke;
+    background-color: #fff;
     margin-left: 20px;
+    border: 0.4px solid rgb(28, 39, 76, 0.3);
 }
 
 nav button {
@@ -113,21 +113,22 @@ nav button {
     display: none;
     top: 0;
     margin-top: 80px;
-    z-index: 9999;
-    border: 1px solid rgb(204, 204, 204);
+    z-index: 1;
+    border-top: 1px solid rgb(204, 204, 204);
     position: fixed;
     transition: opacity 0.5s ease;
     opacity: 1;
-    width: 60%;
-    height: 100%;
+    width: auto;
+    height: auto;
     left: 0;
     bottom: 0;
+    right: 0;
     font-family: 'kanit', sans-serif;
 }
 
 .dropdown_content_box {
     background-color: #fff;
-    height: auto;
+    height: 100%;
     width: auto;
 }
 .ge_dropdown_content_fun {
@@ -147,7 +148,9 @@ nav button {
 }
 .ge_dropdown_content_fun_box {
     display: flex;
-    font-size: medium;
+    font-size: large;
+    font-style: normal;
+    font-weight: bolder;
     position: relative;
 }
 .md_svg {
@@ -186,7 +189,7 @@ nav button {
 }
 .exploration_container {
     margin-top: 40px;
-    z-index: -999;
+    z-index: -100;
     position: relative;
     width: 100%;
 }
@@ -243,7 +246,7 @@ nav button {
     border-top-left-radius: 30px;
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
-    height: 350px;
+    height: 380px;
     width: 200px;
     position: relative;
     z-index: -999;
@@ -251,7 +254,7 @@ nav button {
     font-style: normal;
     color: rgb(28, 39, 76, 0.5);
 }
-.buy-NFT {
+.jospkf {
     text-align: center;
     font-style: normal;
     font-size: 12px;
@@ -395,6 +398,10 @@ nav button {
     background-color: #fff;
     height: auto;
     box-shadow: 0 0 25px rgb(0, 0, 0, 0.1);
+}
+.W3devtoolsNetwork:hover {
+    background-color: #fff;
+    /* ?? */
 }
 .W3devtoolsNetwork_box {
     margin: 0;
