@@ -35,6 +35,7 @@ a {
     align-items: center;
     color: rgb(0, 0, 0, 0.8);
 }
+
 .whitebark {
     margin-left: auto;
     display: block;
@@ -106,6 +107,7 @@ nav button {
     height: 50px;
     margin: 5px;
 }
+
 #dropdown_content {
     background-color: #fff;
     padding: 15px;
@@ -116,14 +118,13 @@ nav button {
     z-index: 1;
     border-top: 1px solid rgb(204, 204, 204);
     position: fixed;
-    transition: opacity 0.5s ease;
     opacity: 1;
     width: auto;
     height: auto;
-    left: 0;
+    left: 465px;
     bottom: 0;
     right: 0;
-    font-family: 'kanit', sans-serif;
+    font-family: 'k0anit', sans-serif;
 }
 
 .dropdown_content_box {
@@ -437,12 +438,10 @@ nav button {
     font-family: 'kanit', sans-serif;
 }
 .W3devtools_network_h1 h1 {
-    font-weight: 400;
-    font-size: 36px;
+    font-weight: 300;
+    font-size: 25px;
     font-style: normal;
     line-height: 40spx;
-    word-spacing: 2.5px;
-    letter-spacing: 1px;
     font-family: 'kanit', sans-serif;
 }
 .info_container {
